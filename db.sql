@@ -9,7 +9,7 @@ create table task (
     description text not null
 );
 
-insert into tsk (description) values('Test task')
-insert into tsk (description) values('Another test task');
+insert into task (description) values('Test task')
+insert into task (description) values('Another test task');
 
 
